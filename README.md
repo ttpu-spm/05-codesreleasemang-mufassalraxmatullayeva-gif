@@ -31,6 +31,6 @@ This assignment introduces you how to use **_Basic Repository Management_** and 
 _Here you should put the URL of your final repository after finishing the given tutorial_
 
 1. Introduction to Repository Management: [_REPO LINK 1_](https://github.com/mufassalraxmatullayeva-gif/skills-introduction-to-repository-management)
-2. Release based workflow: [_REPO LINK 2_]
-3. Useful Tips in Github:  [_REPO LINK 3_]
-4. Code with GitHub Codespaces: [_REPO LINK 4_]
+2. Release based workflow: [_REPO LINK 2_](https://github.com/mufassalraxmatullayeva-gif/skills-release-based-workflow)
+3. Useful Tips in Github:  [_REPO LINK 3_](https://github.com/mufassalraxmatullayeva-gif/skills-connect-the-dots)
+4. Code with GitHub Codespaces: [_REPO LINK 4_](https://github.com/mufassalraxmatullayeva-gif/skills-code-with-codespaces)
